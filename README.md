@@ -103,4 +103,14 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 
-#### the greatest autocorrelation is between high_cost and prev_year_cost 
+#### ⭐ the greatest autocorrelation is between high_cost and prev_year_cost 
+
+### outliers + plot (between the columns prev_year_cost and income)
+<img width="622" height="242" alt="image" src="https://github.com/user-attachments/assets/43f9effb-527a-4c74-806f-b9adf06c6154" />
+
+
+
+
+
+
+<img width="613" height="552" alt="image" src="https://github.com/user-attachments/assets/4aab84e8-88b7-40ae-b6aa-9cee5d6d9c2a" />
