@@ -206,12 +206,12 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 
-### ✔ classification report
+### ✔ Classification report
 <img width="386" height="195" alt="image" src="https://github.com/user-attachments/assets/27552b49-0ffa-4bfb-9cb0-7492033dee10" />
 
 
 
-### ✔ roc auc test
+### ✔ Roc auc test
 <img width="222" height="71" alt="image" src="https://github.com/user-attachments/assets/05f4de02-2332-43d8-8a72-fb86b57b89bf" />
 
 
@@ -219,10 +219,15 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 ## Forecast With Your Data
 Example: 1) Yearly income = 23000
+
          2) Medical costs of previous year = 500
+        
          3) Type of insurance = 1 (private)
+         
          4) Number of admissions = 2
+         
          5) Number of ED visits = 3
+         
          6) Number of comorbidities = 1
 
 
