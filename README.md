@@ -69,3 +69,38 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 ### ✔ "income" column
 <img width="547" height="325" alt="image" src="https://github.com/user-attachments/assets/f6f65ad6-77a7-45d5-ad0c-a8a73fb0bbf5" />
+
+
+
+
+
+### ✔ "insurance_type" column (+ create a insurance_flag column)
+<img width="622" height="546" alt="image" src="https://github.com/user-attachments/assets/645c5918-00a3-4755-b194-07c69e6e6d30" />
+
+# Exploratory Data Analysis (EDA) 
+### basic statistical measurements
+<img width="1000" height="312" alt="image" src="https://github.com/user-attachments/assets/93fd901f-020c-4d28-9a31-9d71e59ab7af" />
+
+
+
+
+
+### correlation (+ heatmap)
+<img width="1016" height="365" alt="image" src="https://github.com/user-attachments/assets/3d3d7cf8-e23d-4a9f-bac9-cafffbfac49b" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="985" height="827" alt="image" src="https://github.com/user-attachments/assets/38b359b8-9bc5-40b2-9958-d3a10f4f877e" />
+
+
+
+#### the greatest autocorrelation is between high_cost and prev_year_cost 
