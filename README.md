@@ -215,3 +215,62 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 
+
+## Forecast With Your Data
+Example: 1) Yearly income = 23000
+         2) Medical costs of previous year = 500
+         3) Type of insurance = 1 (private)
+         4) Number of admissions = 2
+         5) Number of ED visits = 3
+         6) Number of comorbidities = 1
+
+
+<img width="1020" height="743" alt="image" src="https://github.com/user-attachments/assets/8ea8211b-bc0f-4258-a079-b7c8320034b7" />
+
+
+
+
+
+
+
+
+
+
+
+# Power BI Dashboard 
+<img width="1368" height="734" alt="Στιγμιότυπο οθόνης 2025-11-25 221745" src="https://github.com/user-attachments/assets/44bfa13e-e61a-43bd-9559-8feca55ce5f9" />
+
+
+
+
+
+
+
+
+
+## The Power BI report provides a rich analytical view of the dataset, including:
+### ✔ Cost Analytics
+
+Total vs. high-cost patient spending
+
+Previous year cost distribution
+
+Cost drivers and demographic breakdowns
+
+
+### ✔ Patient Characteristics
+
+Age, gender, BMI, income
+
+Smoking status
+
+Comorbidity counts
+
+
+### ✔ Utilization Metrics
+
+Hospital admissions
+
+Emergency department visits
+
+Insurance coverage patterns
