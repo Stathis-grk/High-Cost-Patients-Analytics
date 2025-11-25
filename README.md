@@ -74,7 +74,7 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 
-### ✔ "insurance_type" column (+ create a insurance_flag column)
+### ✔ "insurance_type" column (+ create an insurance_flag column)
 <img width="622" height="546" alt="image" src="https://github.com/user-attachments/assets/645c5918-00a3-4755-b194-07c69e6e6d30" />
 
 # Exploratory Data Analysis (EDA) 
@@ -103,7 +103,7 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 
-#### ⭐ the greatest autocorrelation is between high_cost and prev_year_cost 
+#### the greatest autocorrelation is between high_cost and prev_year_cost 
 
 ### outliers + plot (between the columns prev_year_cost and income)
 <img width="622" height="242" alt="image" src="https://github.com/user-attachments/assets/43f9effb-527a-4c74-806f-b9adf06c6154" />
