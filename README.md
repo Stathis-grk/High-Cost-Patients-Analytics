@@ -1,4 +1,4 @@
-# High-Cost-Patients-Analytics
+# High-Cost-Patients-Project 
 This project contains an end-to-end data analytics workflow for identifying and understanding high-cost healthcare patients.
 
 It includes:
