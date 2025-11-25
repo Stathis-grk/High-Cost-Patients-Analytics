@@ -175,3 +175,43 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 <img width="997" height="465" alt="image" src="https://github.com/user-attachments/assets/8eb1638f-f3fa-4866-99e0-e6592a737e4f" />
+
+
+
+
+
+
+
+
+
+### ✔ Coefficiency (+ plot)
+<img width="610" height="313" alt="Στιγμιότυπο οθόνης 2025-11-25 215206" src="https://github.com/user-attachments/assets/92067338-3287-4eef-9be7-c87a564872b8" />
+
+
+
+
+
+
+
+<img width="591" height="598" alt="Στιγμιότυπο οθόνης 2025-11-25 215305" src="https://github.com/user-attachments/assets/e427c759-48d9-4126-bcba-3335fb29e7b3" />
+
+
+
+
+
+### ✔ Confusion matrix
+<img width="222" height="87" alt="image" src="https://github.com/user-attachments/assets/a3b778e1-05ec-48a5-8353-744758f1759a" />
+
+
+
+
+### ✔ classification report
+<img width="386" height="195" alt="image" src="https://github.com/user-attachments/assets/27552b49-0ffa-4bfb-9cb0-7492033dee10" />
+
+
+
+### ✔ roc auc test
+<img width="222" height="71" alt="image" src="https://github.com/user-attachments/assets/05f4de02-2332-43d8-8a72-fb86b57b89bf" />
+
+
+
