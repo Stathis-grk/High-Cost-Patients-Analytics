@@ -124,7 +124,7 @@ The goal of the project is to support data-driven decision-making in healthcare 
 <img width="613" height="552" alt="image" src="https://github.com/user-attachments/assets/4aab84e8-88b7-40ae-b6aa-9cee5d6d9c2a" />
 
 
-## Dataset After Cleaing
+## Dataset After Cleaning
 <img width="1848" height="646" alt="image" src="https://github.com/user-attachments/assets/3a17d195-1808-4295-b639-85b8a2450be5" />
 
 
