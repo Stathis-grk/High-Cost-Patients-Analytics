@@ -2,7 +2,7 @@
 This project contains an end-to-end data analytics workflow for identifying and understanding high-cost healthcare patients.
 
 It includes:
-1) A Python notebook that performs data import, preprocessing, feature engineering, and machine learning modeling.
+1) A Python notebook that performs data import, preprocessing and machine learning modeling.
 
 2) A Power BI dashboard that visualizes patient characteristics, cost drivers, and risk factors.
 
